@@ -14,6 +14,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/compose-bascics" />
             <option value="$PROJECT_DIR$/compose-layout" />
+            <option value="$PROJECT_DIR$/compose-state" />
           </set>
         </option>
       </GradleProjectSettings>

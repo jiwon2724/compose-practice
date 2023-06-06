@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">compose-state</string>
+    <string name="title_activity_wellness_screen">WellnessScreen</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>

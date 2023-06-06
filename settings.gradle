@@ -16,3 +16,4 @@ rootProject.name = "compose-practice"
 include ':app'
 include ':compose-bascics'
 include ':compose-layout'
+include ':compose-state'
